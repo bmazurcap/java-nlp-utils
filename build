@@ -1,3 +1,2 @@
 #!/bin/bash
-rm -R src/classes/*
-"C:\Users\bartmazu\Downloads\jdk8u432-b06\bin\javac.exe" -cp "C:\Users\bartmazu\Downloads\junit-4.8.1.jar" -extdirs jars src/*/*/*/*/*.java -d src/classes
+"C:\Users\bartmazu\Downloads\jdk8u432-b06\bin\javac.exe" -cp "C:\Users\bartmazu\Downloads\junit-4.8.1.jar" -extdirs jars C:/Users/bartmazu/AppData/Local/Temp/java-nlp-utils/src/*/*/*/*/*.java -d C:/Users/bartmazu/AppData/Local/Temp/java-nlp-utils/src/classes 2>a.txt
